@@ -53,7 +53,7 @@ sections:
     subtitle: from $149.99
     image: images/promo.jpg
     cta:
-      title: Discover
+      title: ''
       url: /store
       style: secondary
 template: home
